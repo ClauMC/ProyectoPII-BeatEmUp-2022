@@ -59,7 +59,7 @@ public class PJ2_Movement : MonoBehaviour
 
     private void Flip(float horizontal)
     {
-        if(horizontal > 0 && !facingLeft || horizontal < 0 && facingLeft)
+        if(horizontal < 0 && !facingLeft || horizontal > 0 && facingLeft)
         {
             facingLeft = !facingLeft;
 
