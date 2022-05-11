@@ -1,0 +1,1388 @@
+fileFormatVersion: 2
+guid: 4791ed559caba2948b54bc05568ce852
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2175
+        width: 176
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3052aad449080684ab969762fe7d7864
+      internalID: -1518270810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2175
+        width: 166
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a195045763c083b44825ff9eeb763998
+      internalID: 1478153966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_2
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2175
+        width: 172
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab54c7bdab78314e8937661ca807bc2
+      internalID: 791828439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_3
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 2176
+        width: 212
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c6d37cc6e5a914ea3622078a11665e
+      internalID: -670530009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_4
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 2176
+        width: 210
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f166041a4102d8499ff49cbb8ba8a4e
+      internalID: 1406426780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_5
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2175
+        width: 239
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6bd29828b545d44b215fbf2d8d2799
+      internalID: -348285430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_6
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2175
+        width: 254
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cf2d7865cc49c478ef90129e637f68
+      internalID: -1537408327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_7
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 2175
+        width: 244
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d4ad8b199afc847a3bc5dba46772f4
+      internalID: -1332936408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_8
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 2175
+        width: 298
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88c70a69de7e1c4faa1f2c3c2af57d1
+      internalID: 1841483071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1732
+        width: 303
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef552b798db22c49a260201e351a198
+      internalID: 2121758254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_10
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1732
+        width: 282
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d468863f686349478d236ecaa9b34be
+      internalID: -1204836089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_11
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2019
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08906fd10eaca045934ee5da06351cf
+      internalID: 220011341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_12
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1738
+        width: 233
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c4d24b76047ee47b40204e175d1645
+      internalID: -919727308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_13
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1738
+        width: 253
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21acdda06d7511045b8dbf50dcb50734
+      internalID: -857431512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_14
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1745
+        width: 306
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19f2744fecafa24e9052912a008d7e6
+      internalID: 517749231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_15
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1739
+        width: 255
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6144a969f349b547aa1703c1ef15f59
+      internalID: 723816789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_16
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 1742
+        width: 208
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab16926a1d1f7547a0bd25016d744dd
+      internalID: 1264481201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_17
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 1745
+        width: 210
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac08eaa2cc19732428a5bdfb026a1f73
+      internalID: -984147196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_18
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1866
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa5805fc95821e4a941420e22a32524
+      internalID: -728893152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_19
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1801
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03498aef1d988b64fb30e645887ced35
+      internalID: -81329822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_20
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1735
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abffd65d559fc342a30d7eb81d2df69
+      internalID: -537660759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_21
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1732
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f6b157569c9e646bff65804637dc93
+      internalID: 82890760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_22
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 1732
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c41d7941a7adb04d92187c3889c1de6
+      internalID: -703934636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_23
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 1737
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3972636f50c4e43b93560fd69c12e8
+      internalID: 1418425412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_24
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1266
+        width: 169
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751835fa5cda4a041aae46f2537476ab
+      internalID: 1666620734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_25
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1263
+        width: 168
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf01b43ebf885442aadeb7ac0a2555c
+      internalID: 1913184656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_26
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1263
+        width: 168
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9432bd36b88635a4b98af80bd240ad00
+      internalID: -756096844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_27
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1266
+        width: 167
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949525c4f9622664bb650377b25eae7b
+      internalID: -2017913106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_28
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1263
+        width: 169
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f94fbbb6da0f1542a7b59c0eb21768e
+      internalID: 1450666593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_29
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1261
+        width: 170
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68f57a2f1a58c24e88ff8bc568edc33
+      internalID: 2034254079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_30
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1261
+        width: 170
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b2db1e65ea0cf4ea6e274c326bb78f
+      internalID: -1907959504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_31
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1251
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0cee06c9447d3478396cc5ca6a8ee6
+      internalID: 743528976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_32
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 826
+        width: 229
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a57f986df1ff69469d182339e146d72
+      internalID: 1098517458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_33
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 826
+        width: 248
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a831ea237acb04eb7942f83830e114
+      internalID: 1832422427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_34
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 826
+        width: 227
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6839a0f016f5843adcba6ac6733715
+      internalID: -149873838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_35
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 852
+        width: 259
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc83da0d1da18dc44b42ad18257d4704
+      internalID: -1591273682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_36
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 847
+        width: 277
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1e795594c41244d90c0a439ae3647a
+      internalID: 322534697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_37
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 824
+        width: 275
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ff6ce5f0a22484f81f6f4bc063c30c
+      internalID: 1673696254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_38
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 1112
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d00b9682de0ee4da68a584ee51f7fd
+      internalID: -1990360868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_39
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 826
+        width: 215
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3e66fc9a042e24b868a194c7a503f2
+      internalID: -1448060431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_40
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 945
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2802c9310a3324797e29587475efc1
+      internalID: 1266531714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_41
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 826
+        width: 243
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adf148cfb41e034089f93f56a2a3cfb
+      internalID: 791849410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_42
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 945
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79954b97ba56f14ba1e454c0912993f
+      internalID: 379780270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_43
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 826
+        width: 225
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de13020e87146194d922329b895f0f94
+      internalID: -1107531720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_44
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 824
+        width: 261
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69368c93de860ea4e82bf0338cd41796
+      internalID: 1523863117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 883
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffbda57f2740054eaabc9effa3648de
+      internalID: 277578075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_46
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 895
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cf6a79adf71f74b946e1a42a7d7281
+      internalID: 339982787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_47
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 867
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32316cbad058c76459a4e31cc3872a44
+      internalID: -1319661865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_48
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 869
+        width: 66
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e24887959f7e64daab54e3b467b85c
+      internalID: 1793421067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_49
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 380
+        width: 175
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc34940ce53794640af67315125d1b8d
+      internalID: 1625340243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_50
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 387
+        width: 151
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3097c2571c46e84fb64c2c341141ef6
+      internalID: -1237981855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_51
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 470
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee6af00400173140b50467a16113483
+      internalID: -1833552338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_52
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 391
+        width: 128
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8322dfca5809296418783c542fb29d59
+      internalID: -1983749206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_53
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 379
+        width: 125
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff501f971a3eea44b0e4ff1442f1409
+      internalID: 407071555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_54
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 385
+        width: 126
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68be4f84f5d3ca744a930482f5df8ac6
+      internalID: 595959034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_55
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 408
+        width: 189
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab49b6653216e4346a9db97d3215b57e
+      internalID: 1460701020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NegativeSpritesUpdated_56
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 404
+        width: 132
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290a63f844d34854aa9880c20e2fcfb1
+      internalID: 1688153900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NegativeSpritesUpdated_7: -1332936408
+      NegativeSpritesUpdated_38: -1990360868
+      NegativeSpritesUpdated_56: 1688153900
+      NegativeSpritesUpdated_53: 407071555
+      NegativeSpritesUpdated_55: 1460701020
+      NegativeSpritesUpdated_13: -857431512
+      NegativeSpritesUpdated_4: 1406426780
+      NegativeSpritesUpdated_8: 1841483071
+      NegativeSpritesUpdated_47: -1319661865
+      NegativeSpritesUpdated_45: 277578075
+      NegativeSpritesUpdated_23: 1418425412
+      NegativeSpritesUpdated_6: -1537408327
+      NegativeSpritesUpdated_35: -1591273682
+      NegativeSpritesUpdated_5: -348285430
+      NegativeSpritesUpdated_26: -756096844
+      NegativeSpritesUpdated_16: 1264481201
+      NegativeSpritesUpdated_2: 791828439
+      NegativeSpritesUpdated_10: -1204836089
+      NegativeSpritesUpdated_34: -149873838
+      NegativeSpritesUpdated_17: -984147196
+      NegativeSpritesUpdated_25: 1913184656
+      NegativeSpritesUpdated_51: -1833552338
+      NegativeSpritesUpdated_9: 2121758254
+      NegativeSpritesUpdated_29: 2034254079
+      NegativeSpritesUpdated_42: 379780270
+      NegativeSpritesUpdated_37: 1673696254
+      NegativeSpritesUpdated_24: 1666620734
+      NegativeSpritesUpdated_1: 1478153966
+      NegativeSpritesUpdated_22: -703934636
+      NegativeSpritesUpdated_21: 82890760
+      NegativeSpritesUpdated_54: 595959034
+      NegativeSpritesUpdated_18: -728893152
+      NegativeSpritesUpdated_3: -670530009
+      NegativeSpritesUpdated_32: 1098517458
+      NegativeSpritesUpdated_50: -1237981855
+      NegativeSpritesUpdated_43: -1107531720
+      NegativeSpritesUpdated_52: -1983749206
+      NegativeSpritesUpdated_19: -81329822
+      NegativeSpritesUpdated_12: -919727308
+      NegativeSpritesUpdated_15: 723816789
+      NegativeSpritesUpdated_28: 1450666593
+      NegativeSpritesUpdated_48: 1793421067
+      NegativeSpritesUpdated_30: -1907959504
+      NegativeSpritesUpdated_40: 1266531714
+      NegativeSpritesUpdated_36: 322534697
+      NegativeSpritesUpdated_27: -2017913106
+      NegativeSpritesUpdated_44: 1523863117
+      NegativeSpritesUpdated_20: -537660759
+      NegativeSpritesUpdated_0: -1518270810
+      NegativeSpritesUpdated_31: 743528976
+      NegativeSpritesUpdated_33: 1832422427
+      NegativeSpritesUpdated_49: 1625340243
+      NegativeSpritesUpdated_11: 220011341
+      NegativeSpritesUpdated_14: 517749231
+      NegativeSpritesUpdated_39: -1448060431
+      NegativeSpritesUpdated_41: 791849410
+      NegativeSpritesUpdated_46: 339982787
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
